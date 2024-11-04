@@ -1,4 +1,4 @@
-# Dating_Recommendaions
+# Dating_Recommendations
 Dating Recommendations/Case Study
 Accurate dating recommendations enhance the user experience by providing personalized dating recommendations to facilitate meaningful connections. I had access to a dataset containing user profiles with various attributes such as age, gender, height, interests, education level, occupation, and more. These profiles are associated with user behaviours, including swiping history and frequency of app usage.
 
